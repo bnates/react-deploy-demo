@@ -1,0 +1,11 @@
+$border-color: #444;
+$std-px: 2px;
+$red: red;
+
+.thing {
+  border: solid $std-px $border-color;
+
+  p {
+    color: $red;
+  }
+}

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Thing /> renders correctly 1`] = `
+<section
+  className="thing"
+>
+  <p>
+    Current Val: 
+    true
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Click to Change
+  </button>
+</section>
+`;
